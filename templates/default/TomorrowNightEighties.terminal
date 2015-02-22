@@ -172,19 +172,19 @@
 	<data>
 	YnBsaXN0MDDUAQIDBAUGGBlYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3AS
 	AAGGoKQHCBESVSRudWxs1AkKCwwNDg8QVk5TU2l6ZVhOU2ZGbGFnc1ZOU05hbWVWJGNs
-	YXNzI0AkAAAAAAAAEBCAAoADVk1vbmFjb9ITFBUWWiRjbGFzc25hbWVYJGNsYXNzZXNW
-	TlNGb250ohUXWE5TT2JqZWN0XxAPTlNLZXllZEFyY2hpdmVy0RobVHJvb3SAAQgRGiMt
-	Mjc8QktSW2JpcnR2eH+Ej5ifoqu9wMUAAAAAAAABAQAAAAAAAAAcAAAAAAAAAAAAAAAA
-	AAAAxw==
+	YXNzI0AqAAAAAAAAEBCAAoADXxAaSW5jb25zb2xhdGFGb3JQb3dlcmxpbmUtZHrSExQV
+	FlokY2xhc3NuYW1lWCRjbGFzc2VzVk5TRm9udKIVF1hOU09iamVjdF8QD05TS2V5ZWRB
+	cmNoaXZlctEaG1Ryb290gAEIERojLTI3PEJLUltiaXJ0dniVmqWutbjB09bbAAAAAAAA
+	AQEAAAAAAAAAHAAAAAAAAAAAAAAAAAAAAN0=
 	</data>
 	<key>FontAntialias</key>
-	<false/>
+	<true/>
 	<key>FontWidthSpacing</key>
 	<real>0.99596774193548387</real>
 	<key>Linewrap</key>
 	<true/>
 	<key>ProfileCurrentVersion</key>
-	<real>2.02</real>
+	<real>2.04</real>
 	<key>ScrollbackLines</key>
 	<real>0.0</real>
 	<key>SelectionColor</key>
